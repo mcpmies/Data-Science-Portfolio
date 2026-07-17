@@ -1,13 +1,13 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Mia Smith's CV
 ---
-# Isaac Newton
+# Mia Smith
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="smi22077@byui.edu">ismi22077@byui.edu</a>
+| <a href="https://www.linkedin.com/in/mia-smith-52a565345/">My LinkedIn Page</a>
 </div>
 
 
@@ -28,17 +28,12 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 ## Education
 
 `1654-1660`
-__The King's School, Grantham.__
+__Brigham Young University, Idaho.__
 
 `June 1661 - now`
 __Trinity College, Cambridge__
 
 - Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
 
 
 
