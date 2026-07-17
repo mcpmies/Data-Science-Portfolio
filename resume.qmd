@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Mia Smith's CV
+title: Mia Smith's Resume
 ---
 # Mia Smith
 Aspiring Computer Scientist and Family Historian.
