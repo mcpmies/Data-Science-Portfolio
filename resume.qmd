@@ -6,7 +6,7 @@ title: Mia Smith's CV
 Aspiring Computer Scientist and Family Historian.
 
 <div id="webaddress">
-<a href="smi22077@byui.edu">ismi22077@byui.edu</a>
+<a href="smi22077@byui.edu">smi22077@byui.edu</a>
 | <a href="https://www.linkedin.com/in/mia-smith-52a565345/">My LinkedIn Page</a>
 </div>
 
@@ -27,9 +27,9 @@ Sustainable AI, Neural Networks, handwritten text recognition, Family History.
 
 ## Education
 
-__Brigham Young University, Idaho.__
-`Expected Graduation: Spring 2027`
-- Computer Science major, Machine Learning emphaisis
+__Brigham Young University, Idaho.__  
+`Expected Graduation: Spring 2027`  
+- Computer Science major, Machine Learning emphaisis  
 - Chinese minor
 
 
@@ -44,23 +44,23 @@ __Brigham Young University, Idaho.__
 
 ## Relevant Work Experience
 
-__CS Intern__, Handy Optimal
-`October 2025 - December 2025`
+__CS Intern__, Handy Optimal  
+`October 2025 - December 2025`  
 
-__Course Setup Specialist__, BYUI & Pathway
-`July 2025 - December 2025`
+__Course Setup Specialist__, BYUI & Pathway  
+`July 2025 - December 2025`  
 
-- Worked with a variety of online platforms to ensure proper setup for online courses in very high detail.
-- Collaborated with course designers to resolve issues in courses.
+- Worked with a variety of online platforms to ensure proper setup for online courses in very high detail.  
+- Collaborated with course designers to resolve issues in courses.  
 
 
 ### Other
 
-__Tutor__, Chinese Conversation Lab
-`September 2024 - December 2024`
+__Tutor__, Chinese Conversation Lab  
+`September 2024 - December 2024`  
 
-- Assisted students in language learning one-on-one and in group settings.
-- Adapted methods to the needs of individual students.
+- Assisted students in language learning one-on-one and in group settings.  
+- Adapted methods to the needs of individual students.  
 
 
 
